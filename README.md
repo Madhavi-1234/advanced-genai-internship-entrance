@@ -12,14 +12,17 @@ This repository contains my solutions for the **Innomatics Research Labs Advance
 - `notebooks/Innomatics_GenAI_Entrance.ipynb` — Colab notebook with all solutions, code, and explanations
 - `data/` (optional) — original datasets used in the test
 
+## Dataset
+
+The original data files (`orders.csv`, `users.json`, `restaurants.sql`) are **not included** in this repository due to privacy/confidentiality.  
+To run the notebook end‑to‑end, upload these files manually in Google Colab under the “Files” section before running cells.
+
 ## How to Run
 
 1. Open the notebook in **Google Colab**
 2. Run each cell sequentially
 3. The final dataset `final_food_delivery_dataset.csv` is generated and used for analysis
 4. All numerical and fill-in-the-blank answers are included in the notebook
-
-Note: Original dataset files are not included due to confidentiality.
 
 ## Author
 
