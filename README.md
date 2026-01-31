@@ -19,6 +19,8 @@ This repository contains my solutions for the **Innomatics Research Labs Advance
 3. The final dataset `final_food_delivery_dataset.csv` is generated and used for analysis
 4. All numerical and fill-in-the-blank answers are included in the notebook
 
+Note: Original dataset files are not included due to confidentiality.
+
 ## Author
 
 **Madhavi Dixit**  
